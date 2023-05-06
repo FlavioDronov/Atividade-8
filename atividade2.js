@@ -11,7 +11,7 @@ while(true){
 
     const hobbies = []
     while (true) {
-        const hobby = prompt(`Insira um hobby para ${nome}: `)
+        const hobby = prompt(`Insira um hobby  ${nome}: `)
         if (hobby === ''){
             break
         }
